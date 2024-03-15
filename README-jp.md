@@ -24,7 +24,7 @@ yarn add asshuku
 
 ```js
 import { asshukuImage } from "asshuku";
-
+s
 ... // other codes
 
 const _file = await asshukuImage(file, {
@@ -60,3 +60,8 @@ const _file = await asshukuImage(file, {
 | targetSize | 希望する圧縮後のファイルサイズ | Number | - | true |
 | maxRetryNum | 最大再試行回数（ファイルが大きすぎると、何度圧縮しても目標サイズに到達できませんのため、このパラメーターを設置する） | Number | - | true |
 | qualityChangeFn | quality減らす方法、qualityはマイナスには減らない。（マイナスの場合は0をリターン） | Function | (quality) => quality / 2 | false |
+
+# Others
+
+* 🪧 [source code](https://gitee.com/koukin2m/asshuku/)
+* 💻 [npm](https://www.npmjs.com/package/asshuku)

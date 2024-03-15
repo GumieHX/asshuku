@@ -60,3 +60,8 @@ const _file = await asshukuImage(file, {
 | targetSize | Compressed target image size. | Number | - | true |
 | maxRetryNum | The maximum number of retries when the image is too large to compress to your target size | Number | - | true |
 | qualityChangeFn | How to reduce quality. Quality will not be reduced to negative numbers. (It means the minimum quality is 0) | Function | (quality) => quality / 2 | false |
+
+# Others
+
+* 🪧 [source code](https://gitee.com/koukin2m/asshuku/)
+* 💻 [npm](https://www.npmjs.com/package/asshuku)

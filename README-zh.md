@@ -60,3 +60,8 @@ const _file = await asshukuImage(file, {
 | targetSize | 期望压缩后的图片大小 | Number | - | true |
 | maxRetryNum | 最大重试次数，当你的图片过大无法压缩到期望大小的时候，加入最大重试次数防止无限压缩卡死 | Number | - | true |
 | qualityChangeFn | 如何减少你的quality，quality不会减少为负数（当使用你的函数处理过后得到的结果小于0时返回0） | Function | (quality) => quality / 2 | false |
+
+# Others
+
+* 🪧 [source code](https://gitee.com/koukin2m/asshuku/)
+* 💻 [npm](https://www.npmjs.com/package/asshuku)
