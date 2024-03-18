@@ -1,8 +1,8 @@
 <h1 align="center">Asshuku</h1>
 
 <p align="center">
-    <a href="https://gitee.com/koukin2m/asshuku/blob/main/README.md">English</a>&nbsp;&nbsp;
-    <a href="https://gitee.com/koukin2m/asshuku/blob/main/README-zh.md">中文版</a>&nbsp;&nbsp;
+    <a href="https://github.com/GumieHX/asshuku/blob/main/README.md">English</a>&nbsp;&nbsp;
+    <a href="https://github.com/GumieHX/asshuku/blob/main/README-zh.md">中文版</a>&nbsp;&nbsp;
     <span>日本語</span>
 </p>
 

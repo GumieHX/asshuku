@@ -1,6 +1,6 @@
 {
   "name": "asshuku",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Front-end Image Compression Tool.",
   "author": "KouKin",
   "main": "dist/index.js",
@@ -9,8 +9,7 @@
   "type": "module",
   "private": false,
   "scripts": {
-    "build": "rollup -c",
-    "publish": "yarn build && npm publish"
+    "build": "rollup -c"
   },
   "dependencies": {
     "pako": "^2.1.0"

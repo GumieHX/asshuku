@@ -2,8 +2,8 @@
 
 <p align="center">
     <span>English</span>&nbsp;&nbsp;
-    <a href="https://gitee.com/koukin2m/asshuku/blob/main/README-zh.md">中文版</a>&nbsp;&nbsp;
-    <a href="https://gitee.com/koukin2m/asshuku/blob/main/README-jp.md">日本語</a>
+    <a href="https://github.com/GumieHX/asshuku/blob/main/README-zh.md">中文版</a>&nbsp;&nbsp;
+    <a href="https://github.com/GumieHX/asshuku/blob/main/README-jp.md">日本語</a>
 </p>
 
 Front-end Image Compression Tool.
