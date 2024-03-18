@@ -6,7 +6,7 @@
     <a href="https://gitee.com/koukin2m/asshuku/blob/main/README-jp.md">日本語</a>
 </p>
 
-Front-end compress the image file.
+Front-end Image Compression Tool.
 
 # Install
 
@@ -61,7 +61,11 @@ const _file = await asshukuImage(file, {
 | maxRetryNum | The maximum number of retries when the image is too large to compress to your target size | Number | - | true |
 | qualityChangeFn | How to reduce quality. Quality will not be reduced to negative numbers. (It means the minimum quality is 0) | Function | (quality) => quality / 2 | false |
 
+# Javascript Support
+
+Only supports ES2015 or newer versions.
+
 # Others
 
-* 🪧 [source code](https://gitee.com/koukin2m/asshuku/)
+* 🪧 [source code](https://github.com/GumieHX/asshuku.git)
 * 💻 [npm](https://www.npmjs.com/package/asshuku)

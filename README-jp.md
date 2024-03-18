@@ -61,7 +61,11 @@ const _file = await asshukuImage(file, {
 | maxRetryNum | 最大再試行回数（ファイルが大きすぎると、何度圧縮しても目標サイズに到達できませんのため、このパラメーターを設置する） | Number | - | true |
 | qualityChangeFn | quality減らす方法、qualityはマイナスには減らない。（マイナスの場合は0をリターン） | Function | (quality) => quality / 2 | false |
 
-# Others
+# Javascript サポート
 
-* 🪧 [source code](https://gitee.com/koukin2m/asshuku/)
+ES2015とその以後のバージョンのみ。
+
+# その他
+
+* 🪧 [source code](https://github.com/GumieHX/asshuku.git)
 * 💻 [npm](https://www.npmjs.com/package/asshuku)
