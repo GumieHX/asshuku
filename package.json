@@ -1,6 +1,6 @@
 {
   "name": "asshuku",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Frontend compress image file.",
   "author": "KouKin",
   "main": "dist/index.js",
@@ -25,5 +25,10 @@
     "rollup-plugin-dts": "^6.1.0",
     "tslib": "^2.6.2",
     "typescript": "^5.4.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/koukin2m/asshuku.git"
+  },
+  "keywords" : ["frontend", "compress", "image compress"]
 }
