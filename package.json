@@ -9,7 +9,8 @@
   "type": "module",
   "private": false,
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "publish": "yarn build && npm publish"
   },
   "dependencies": {
     "pako": "^2.1.0"
