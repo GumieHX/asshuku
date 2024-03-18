@@ -1,7 +1,7 @@
 {
   "name": "asshuku",
-  "version": "1.0.2",
-  "description": "Frontend compress image file.",
+  "version": "1.0.3",
+  "description": "Front-end Image Compression Tool.",
   "author": "KouKin",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
