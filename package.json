@@ -1,6 +1,6 @@
 {
   "name": "asshuku",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Front-end Image Compression Tool.",
   "author": "KouKin",
   "main": "dist/index.js",
@@ -28,7 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/koukin2m/asshuku.git"
+    "url": "https://github.com/GumieHX/asshuku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GumieHX/asshuku/issues"
   },
   "keywords" : ["frontend", "compress", "image compress"]
 }
